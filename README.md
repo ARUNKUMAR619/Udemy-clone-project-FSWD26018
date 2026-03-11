@@ -26,7 +26,7 @@ portfolio-website/
 ├── image           # website images
 └── README.md
 ▶️ How to view
-by visiting [] feel free to explore and get in touch!
+by visiting [ https://arunkumar619.github.io/Udemy-clone-project-FSWD26018/] feel free to explore and get in touch!
 
 📌 Pages
    The page is designed to mimic Udemy’s layout while keeping the code
