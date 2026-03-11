@@ -15,4 +15,19 @@ A responsive clone of Udemy’s homepage built with *HTML, **CSS, and **FontAwes
 
 - HTML5  
 - CSS3 (Flexbox)  
-- FontAwesome icons  
+- FontAwesome icons
+
+
+📂 Project Structure
+portfolio-website/
+│
+├── index.html      # Home page  
+├── style.css       # Website styling
+├── image           # website images
+└── README.md
+▶️ How to view
+by visiting [] feel free to explore and get in touch!
+
+📌 Pages
+   The page is designed to mimic Udemy’s layout while keeping the code
+   *clean and easy to understand* for learning purposes.
