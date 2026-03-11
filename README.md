@@ -15,11 +15,10 @@ A responsive clone of Udemy’s homepage built with *HTML, **CSS, and **FontAwes
 
 - HTML5  
 - CSS3 (Flexbox)  
-- FontAwesome icons
 
 
 📂 Project Structure
-portfolio-website/
+Udemy-clone-project/
 │
 ├── index.html      # Home page  
 ├── style.css       # Website styling
